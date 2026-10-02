@@ -14,3 +14,12 @@ for i in range(10, 0, -1):
 for i in range(1, 7):
     print("Roll number:", i)
 #Henry's part
+
+# A basic Python program
+
+name = input("What is your name? ")
+
+print("Hello,", name)
+print("Welcome to Python programming!")
+
+#David's part
